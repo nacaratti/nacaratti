@@ -1,4 +1,4 @@
-### Olá 👋
+### Oi, tudo bem? 👋
 
 - 🔭 Atualmente estudando sobre uns lasers potentes.
 - 📖 Engenheiro Mecânico.
