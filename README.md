@@ -1,10 +1,11 @@
-### Oi, tudo bem? 👋
+### Oi, tudo bem? 👽
 
 - 🔭 Atualmente estudando sobre uns lasers potentes.
-- 📖 Engenheiro Mecânico.
+- 📖 Engenheiro Mecânico-Aeronáutico.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
 - 🎮 Gosto de jogar Dead by Daylight.
-- 👽
+- 🎤 Ouço podcast o dia inteiro.
+- 📍  Based in São Paulo.
 - 📫 How to reach me: nacaratti@usp.br
 
 <div align="center">
