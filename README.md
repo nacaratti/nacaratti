@@ -1,7 +1,5 @@
 ### Olá 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estudando sobre uns lasers potentes.
 - 📖 Engenheiro Mecânico.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
