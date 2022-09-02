@@ -2,8 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente me dedicando ao mestrado na área de fotônica.
-- 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby
+- 🔭 Atualmente estudando sobre uns lasers potentes.
+- 📖 Engenheiro Mecânico.
+- 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
+- 🎮 Gosto de jogar Dead by Daylight
+- 👽
 - 📫 How to reach me: nacaratti@usp.br
 
 <div>
@@ -13,10 +16,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
   ##
