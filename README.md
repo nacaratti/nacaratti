@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby
 - 📫 How to reach me: nacaratti@usp.br
 
-<div align="center">
+<div>
   <a href="https://github.com/nacaratti">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nacaratti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacaratti&layout=compact&langs_count=7&theme=dark"/>
