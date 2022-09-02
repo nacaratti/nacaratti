@@ -3,7 +3,7 @@
 - 🔭 Atualmente estudando sobre uns lasers potentes.
 - 📖 Engenheiro Mecânico.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
-- 🎮 Gosto de jogar Dead by Daylight
+- 🎮 Gosto de jogar Dead by Daylight.
 - 👽
 - 📫 How to reach me: nacaratti@usp.br
 
