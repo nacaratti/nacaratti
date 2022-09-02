@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/nacaratti">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=nacaratti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacaratti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=nacaratti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacaratti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
