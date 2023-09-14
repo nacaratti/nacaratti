@@ -1,6 +1,6 @@
 ### Oi, tudo bem? 👽
 
-- 📖 Engenheiro Mecânico-Aeronáutico. Atualmente estudando sobre uns lasers potentes.
+- 📖 Engenheiro Mecânico-Aeronáutico. Atualmente estudando sobre lasers.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
 - 🎮 Gosto de jogar Dead by Daylight.
 - 🎤 Ouço podcast o dia inteiro.
