@@ -3,7 +3,6 @@
 - 📖 Engenheiro Mecânico-Aeronáutico. Atualmente estudando sobre lasers.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
 - 🎮 Gosto de jogos.
-- 🎤 Ouço podcast o dia inteiro.
 - 📍 Based in São Paulo.
 - 📫 How to reach me: nacaratti@usp.br
 
