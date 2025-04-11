@@ -1,6 +1,6 @@
 ### Oi, tudo bem? 👽
 
-- 📖 Engenheiro Mecânico-Aeronáutico. Atualmente estudando sobre lasers.
+- 📖 Me aventurando em programação.
 - 🌱 Aprendendo algumas linguagens de programação para o trampo e por hobby.
 - 🎮 Gosto de jogos.
 - 📍 Based in São Paulo.
