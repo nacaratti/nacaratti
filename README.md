@@ -1,14 +1,8 @@
-<h1 align="center">Hi, I'm Davi Nacaratti 👽</h1>
-<p align="center">
-  <b>Photonics researcher · Scientific computing · Full-stack dev</b><br>
-  M.Sc. in Lasers and Photonics — I build optical fibers in the lab and the software around them.
-</p>
-
----
+<h1 align="center">Hi, I'm Davi Nacaratti</h1>
 
 ### 🔬 Research
 
-I work at **LaMP — Laboratório de Micro-ondas de Potência e Fotônica**, on the fabrication and modeling of optical fibers. My work sits where physics meets code:
+I work at **LaMP — Laboratório de Micro-ondas de Potência e Fotônica**, on the modeling and fabrication of optical fibers and optical devices. My work sits where physics meets code:
 
 - **Optical fiber fabrication (MCVD)** — silica preform fabrication, exploring machine learning to optimize the process.
 - **High-power fiber lasers** — simulation of active and polarization-maintaining fibers (Python, MATLAB, Lumerical), and building [Lampy](https://github.com/nacaratti/software-lampy) to design full laser systems.
