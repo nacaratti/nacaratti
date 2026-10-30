@@ -16,7 +16,7 @@ I work at **LaMP — Laboratório de Micro-ondas de Potência e Fotônica**, on 
 | [**FomentaBR**](https://fomentabr.org) | Collaborative platform that aggregates Brazilian research funding calls (FAPESP, FINEP, CNPq, FAPs…) with LLM-based data extraction and a newsletter | Python · Postgres · Supabase · Vercel |
 | [**CarameloTeX**](https://github.com/nacaratti/caramelotex) · [site](https://caramelotex.vercel.app) | Offline LaTeX editor for Windows that ships its own TeX distribution and compiles PDFs locally | Tauri · Rust · JavaScript · CodeMirror |
 | [**Kinto**](https://github.com/nacaratti/kinto-game) · [play](https://kinto.fun) | Brazilian Portuguese Wordle-style word game, maintained with the help of autonomous AI agents | React · Supabase · Tailwind · Vercel |
-| [**Favo**](https://github.com/nacaratti/hive-game) · [play](https://hive-game-alpha.vercel.app) | Hive-inspired strategy board game — play with friends over a self-hosted match or against the computer | TypeScript · React · Socket.IO · Electron · Capacitor |
+| [**Favo**](https://github.com/nacaratti/hive-game) · [play](https://hive-game-zeta.vercel.app) | Hive-inspired strategy board game — play with friends over a self-hosted match or against the computer | TypeScript · React · Socket.IO · Electron · Capacitor |
 | [**Linqu.es**](https://github.com/nacaratti/link-me) · [site](https://link-me-eta.vercel.app) | Personal link page builder: answer a short questionnaire, pick a template, get your page | Next.js · Supabase · Stripe |
 | [**Vigia**](https://github.com/nacaratti/vigia) | Local monitoring for RTSP security cameras — detects people with YOLO, records events and sends Telegram alerts | Python · YOLO · SQLite |
 
