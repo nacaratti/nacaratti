@@ -38,8 +38,8 @@ I work at **LaMP — Laboratório de Micro-ondas de Potência e Fotônica**, on 
 ### 📈 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nacaratti/nacaratti/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nacaratti/nacaratti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nacaratti/nacaratti/output/github-contribution-grid-snake-dark.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nacaratti/nacaratti/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
 ---
